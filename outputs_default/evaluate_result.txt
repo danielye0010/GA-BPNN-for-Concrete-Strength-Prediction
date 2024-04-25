@@ -1,0 +1,5 @@
+The evaluation indicator is:
+MAE: 0.3143
+RMSE: 0.3859
+MAPE: 0.6431
+R2: 0.7329
