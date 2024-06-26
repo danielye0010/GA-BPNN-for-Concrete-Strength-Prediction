@@ -56,9 +56,6 @@ The integration of Genetic Algorithms significantly improved the BPNN's predicti
 1. Wang, Z., Liu, S., Wu, K., Huang, L., Wang, J. (2023). Study on the mechanical performance of alkali residue-based lightweight soil. *Construction and Building Materials*, 384, 131353.
 2. Elbaz, K. (2021). Flowchart of generalized structure for GA model. 
 
-## Acknowledgments
-Special thanks to Wang Zhengcheng, Zhang Xiang, and Li Mengyao for their guidance. Appreciation to Dr. Luweico for the opportunity to present and discuss this research.
-
 # Contributor
 Yuhao Zhang
 Daniel Ye
