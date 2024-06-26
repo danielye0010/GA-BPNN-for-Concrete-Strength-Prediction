@@ -58,4 +58,6 @@ The integration of Genetic Algorithms significantly improved the BPNN's predicti
 
 # Contributor
 Yuhao Zhang
+
+
 Daniel Ye
