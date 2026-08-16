@@ -1,0 +1,8 @@
+dill
+matplotlib
+numpy
+pandas
+scikit-learn
+scikit-opt
+torch
+tqdm
