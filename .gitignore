@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# Local dataset
+/data.csv
+
+# Generated experiment artifacts
+outputs_default/
+outputs_ga/
